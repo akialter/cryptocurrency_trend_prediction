@@ -1,4 +1,4 @@
-# cryptocurrency_trend_prediction
+# Cryptocurrency Trend Prediction
 A Jupyter Notebook that preprocesses that cryptocurrency dataset and attempts to fit it in LSTM based model.
 Kaggle link to the notebook: https://www.kaggle.com/code/picnicbros/crypto-currency-trend-prediction
 
