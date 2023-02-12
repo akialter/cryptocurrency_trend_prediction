@@ -22,5 +22,7 @@ This project has provided us the background knowledge to expand to many exciting
 
 ## Learning resources
 Here were the learning resoucres (commented codes, articles) that we used in our experimental learning during the project:
+
 https://www.kaggle.com/code/prashant111/complete-guide-on-time-series-analysis-in-python/notebook
+
 https://www.kaggle.com/code/miracl16/tesla-stock-price-prediction-lstm-vs-gru
